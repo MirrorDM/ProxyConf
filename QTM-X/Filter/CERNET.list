@@ -1,0 +1,15 @@
+# 自定义教育网相关
+# edu.cn
+DOMAIN-SUFFIX,edu.cn,CERNET
+
+# literature
+DOMAIN-SUFFIX,acm.org,CERNET
+DOMAIN-SUFFIX,elsevier.com,CERNET
+DOMAIN-SUFFIX,els-cdn,CERNET
+DOMAIN-SUFFIX,evise.com,CERNET
+DOMAIN-SUFFIX,ieee.org,CERNET
+DOMAIN-SUFFIX,sciencedirect.com,CERNET
+DOMAIN-SUFFIX,sciencedirectassets.com,CERNET
+DOMAIN-SUFFIX,sciverse.com,CERNET
+DOMAIN-SUFFIX,scopus.com,CERNET
+DOMAIN-SUFFIX,springer.com,CERNET
