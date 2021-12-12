@@ -403,6 +403,9 @@ DOMAIN,adtrack.ucweb.com,REJECT
 DOMAIN,applogios.uc.cn,REJECT
 DOMAIN,track.uc.cn,REJECT
 # > Umeng
+DOMAIN,umeng.co,REJECT
+DOMAIN,umeng.com,REJECT
+DOMAIN,umengcloud,REJECT
 DOMAIN,alog.umeng.co,REJECT
 DOMAIN,alog.umeng.com,REJECT
 DOMAIN,alogs.umeng.com,REJECT

@@ -1,20 +1,20 @@
 # 修正 PROXY 和 REJECT 行为
 # Unbreak
 # > General
-USER-AGENT,coffeecorp*,DIRECT
-USER-AGENT,restaurant-mobile*,DIRECT
-DOMAIN,app.adjust.com,DIRECT
+USER-AGENT,coffeecorp*,CNTARGET
+USER-AGENT,restaurant-mobile*,CNTARGET
+DOMAIN,app.adjust.com,CNTARGET
 # > Google
-DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
+DOMAIN-SUFFIX,googletraveladservices.com,CNTARGET
 DOMAIN,analyticsinsights-pa.googleapis.com,PROXY
 DOMAIN,analyticsreporting.googleapis.com,PROXY
-DOMAIN,dl.google.com,DIRECT
-DOMAIN,mtalk.google.com,DIRECT
+DOMAIN,dl.google.com,CNTARGET
+DOMAIN,mtalk.google.com,CNTARGET
 # > Tencent
-DOMAIN,livew.l.qq.com,DIRECT
-DOMAIN,vd.l.qq.com,DIRECT
+DOMAIN,livew.l.qq.com,CNTARGET
+DOMAIN,vd.l.qq.com,CNTARGET
 # > Strava
-DOMAIN,analytics.strava.com,DIRECT
+DOMAIN,analytics.strava.com,CNTARGET
 # > Umeng
-DOMAIN,msg.umeng.com,DIRECT
-DOMAIN,msg.umengcloud.com,DIRECT
+DOMAIN,msg.umeng.com,CNTARGET
+DOMAIN,msg.umengcloud.com,CNTARGET
