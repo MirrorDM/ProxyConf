@@ -108,15 +108,15 @@ DOMAIN-SUFFIX,miui.com,CNTARGET
 DOMAIN-SUFFIX,miwifi.com,CNTARGET
 DOMAIN-SUFFIX,xiaomi.com,CNTARGET
 # > Microsoft
-DOMAIN-SUFFIX,microsoft.com,CNTARGET
-DOMAIN-SUFFIX,msecnd.net,CNTARGET
-DOMAIN-SUFFIX,office365.com,CNTARGET
-DOMAIN-SUFFIX,outlook.com,CNTARGET
-DOMAIN-SUFFIX,s-microsoft.com,CNTARGET
-DOMAIN-SUFFIX,visualstudio.com,CNTARGET
-DOMAIN-SUFFIX,windows.com,CNTARGET
-DOMAIN-SUFFIX,windowsupdate.com,CNTARGET
-DOMAIN,officecdn-microsoft-com.akamaized.net,CNTARGET
+# DOMAIN-SUFFIX,microsoft.com,CNTARGET
+# DOMAIN-SUFFIX,msecnd.net,CNTARGET
+# DOMAIN-SUFFIX,office365.com,CNTARGET
+# DOMAIN-SUFFIX,outlook.com,CNTARGET
+# DOMAIN-SUFFIX,s-microsoft.com,CNTARGET
+# DOMAIN-SUFFIX,visualstudio.com,CNTARGET
+# DOMAIN-SUFFIX,windows.com,CNTARGET
+# DOMAIN-SUFFIX,windowsupdate.com,CNTARGET
+# DOMAIN,officecdn-microsoft-com.akamaized.net,CNTARGET
 # > NetEase
 USER-AGENT,NeteaseMusic*,CNTARGET
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,CNTARGET
