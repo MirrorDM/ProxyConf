@@ -117,3 +117,4 @@ DOMAIN-SUFFIX,s3.amazonaws.com,PROXY
 DOMAIN-SUFFIX,wolframalpha.com,PROXY
 DOMAIN,api.steampowered.com,PROXY
 DOMAIN,store.steampowered.com,PROXY
+DOMAIN-SUFFIX,pages.dev,PROXY
