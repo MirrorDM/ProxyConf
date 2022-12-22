@@ -54,6 +54,13 @@ DOMAIN-KEYWORD,porn,PROXY
 DOMAIN-SUFFIX,wikimedia.org,Proxy
 DOMAIN-SUFFIX,wikipedia.com,Proxy
 DOMAIN-SUFFIX,wikipedia.org,Proxy
+DOMAIN-SUFFIX,s3.amazonaws.com,PROXY
+DOMAIN-SUFFIX,wolframalpha.com,PROXY
+DOMAIN,api.steampowered.com,PROXY
+DOMAIN,store.steampowered.com,PROXY
+DOMAIN-SUFFIX,pages.dev,PROXY
+DOMAIN-SUFFIX,redd.it,PROXY
+DOMAIN-KEYWORD,reddit,PROXY
 
 # (The Most Popular Sites)
 # > Google
@@ -112,9 +119,3 @@ DOMAIN-SUFFIX,onedrive.com,PROXY
 DOMAIN-SUFFIX,storage.live.com,PROXY
 DOMAIN-SUFFIX,storage.msn.com,PROXY
 DOMAIN,oneclient.sfx.ms,PROXY
-# > Other
-DOMAIN-SUFFIX,s3.amazonaws.com,PROXY
-DOMAIN-SUFFIX,wolframalpha.com,PROXY
-DOMAIN,api.steampowered.com,PROXY
-DOMAIN,store.steampowered.com,PROXY
-DOMAIN-SUFFIX,pages.dev,PROXY
