@@ -60,7 +60,9 @@ DOMAIN,api.steampowered.com,PROXY
 DOMAIN,store.steampowered.com,PROXY
 DOMAIN-SUFFIX,pages.dev,PROXY
 DOMAIN-SUFFIX,redd.it,PROXY
-DOMAIN-KEYWORD,reddit,PROXY
+DOMAIN-SUFFIX,reddit.com,PROXY
+DOMAIN-SUFFIX,redditmedia.com,PROXY
+DOMAIN-SUFFIX,redditstatic.com,PROXY
 
 # (The Most Popular Sites)
 # > Google
